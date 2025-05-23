@@ -1,0 +1,7 @@
+$ git clone git://git.kernel.org/pub/scm/git/git.git
+
+To update git to latest version
+
+morfe details:
+
+https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup
